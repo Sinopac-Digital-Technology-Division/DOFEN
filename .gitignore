@@ -1,0 +1,6 @@
+tabular-benchmark
+__pycache__
+.ipynb_checkpoints/
+openml_id_keyword_mapping.csv
+*.swp
+*venv
